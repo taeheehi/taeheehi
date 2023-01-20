@@ -1,5 +1,9 @@
 ### Hi I'm Taehee Lee 😊
 
+
+
+
+![github actions](https://user-images.githubusercontent.com/52748335/126319031-eba35657-dfc2-4936-9a6d-bb0da9ccc385.PNG)
 <!--
 **taeheehi/taeheehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
