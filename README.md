@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi I'm Taehee Lee 😊
 ### I'm trying to become a frontend developer!
 
@@ -8,7 +9,8 @@
 
 
 ![snake gif](https://github.com/taeheehi/taeheehi/blob/output/github-contribution-grid-snake.gif)
-<!--
+</div>
+  <!--
 **taeheehi/taeheehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
