@@ -4,10 +4,10 @@
   
 </br>  
   
-#### I'm trying to become a frontend developer!
+##### I'm trying to become a frontend developer!
 
-#### Developers who create beneficial social values
-#### A developer who thinks, researches, creates, and connects to practical realization by web.
+##### Developers who create beneficial social values
+##### A developer who thinks, researches, creates, and connects to practical realization by web.
   
   </br></br></br>
   
