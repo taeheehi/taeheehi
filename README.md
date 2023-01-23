@@ -4,6 +4,7 @@
 
 <div align="center">
 ### 😊 Hi! I'm Taehee 😊
+  </br>
   
   <img src="https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif" width="32%" height="32%">
 <!-- </br>   -->
