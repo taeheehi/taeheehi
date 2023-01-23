@@ -19,7 +19,7 @@
   </hr>
   
   <div align=center><h2>😊TAEHEE</h2></div>
-  <a href="https://www.instagram.com/tae_hi/">
+  <a href="https://www.instagram.com/tae_hi/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
     <a href="https://taehi-dev.tistory.com/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
