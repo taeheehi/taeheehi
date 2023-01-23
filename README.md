@@ -25,7 +25,7 @@
   
   <div align=center><h2>⋆｡ﾟ✶°✍  LOGS  ✍⋆｡ﾟ✶°</h2></div>
  
-    <a href="https://taehi-dev.tistory.com/">
+  <a href="https://taehi-dev.tistory.com/">
   <img src="https://img.shields.io/badge/MY BLOG-A9225C.svg?style=for-the-badge&logo=Tistory&logoColor=white"></a>
    <a href="https://www.instagram.com/tae_hi/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
