@@ -11,7 +11,7 @@
   </br>
   
 
-<center>![SX5S](https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif)</center>
+![SX5S](https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif)
 
   </br>
   
