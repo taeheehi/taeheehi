@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/tae_hi/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
     <a href="https://taehi-dev.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-%23E4405F.svg?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Tistory-#A9225C.svg?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 <!--   티스토리로 뱃지 변경하고 gmail 추가 하기 🟨 -->
 
   <div align=center> 
