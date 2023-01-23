@@ -1,8 +1,5 @@
 <div align="center">
-  
-   ## Hi I'm Taehee Lee 😊
-  
-</br>  
+## Hi I'm Taehee Lee 😊
   
 #### I'm trying to become a frontend developer!
 #### Developers who create beneficial social values
