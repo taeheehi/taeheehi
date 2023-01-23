@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hi%20There&fontSize=50) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20EveryOne😊&fontSize=36"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20EveryOne😊&fontSize=36&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 
 <div align="center">
   
