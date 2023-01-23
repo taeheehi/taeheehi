@@ -18,7 +18,7 @@
   </br>
   </hr>
   
-  <div align=center><h2>😊Taehee</h2></div>
+  <div align=center><h2>😊TAEHEE</h2></div>
   <div align=center> 
   
   </div>
