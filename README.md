@@ -22,7 +22,7 @@
 </br>
   </br>
   
-  <div align=center><h2>⋆｡ﾟ✶°✍  LOGS  ✍⋆｡ﾟ✶°</h2></div>
+  <div align=center><h3>⋆｡ﾟ✶°✍  LOGS  ✍⋆｡ﾟ✶°</h3></div>
  
   <a href="https://taehi-dev.tistory.com/">
   <img src="https://img.shields.io/badge/MY BLOG-A9225C.svg?style=for-the-badge&logo=Tistory&logoColor=white"></a>
