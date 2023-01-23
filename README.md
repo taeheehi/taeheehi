@@ -13,7 +13,7 @@
 
 <!-- ![SX5S](https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif) -->
 
-<img src="https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif" width="40%" height="40%">
+<!-- <img src="https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif" width="40%" height="40%"> -->
 </br>
   </br>
   </hr>
@@ -85,7 +85,9 @@
 <!--   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> -->
 <!--   <br> -->
 
-  <br>
+  </br>
+  </br>
+  
 <img src="https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif" width="40%" height="40%">
 
 </div>
