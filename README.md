@@ -3,7 +3,7 @@
   
   
   
-### Hi I'm Taehee Lee 😊
+## Hi I'm Taehee Lee 😊
 #### I'm trying to become a frontend developer!
 #### Developers who create beneficial social values
 #### A developer who thinks, researches, creates, and connects to practical realization by web.
@@ -17,7 +17,7 @@
 
   </br>
   
-  <div align=center><h1>😊Taehee</h1></div>
+  <div align=center><h3>😊Taehee</h3></div>
   <div align=center> 
   
   </div>
