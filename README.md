@@ -19,8 +19,8 @@
   </hr>
   
   <div align=center><h2>😊TAEHEE</h2></div>
-  
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a href="https://www.instagram.com/tae_hi/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   
   
   <div align=center> 
