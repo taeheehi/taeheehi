@@ -14,7 +14,7 @@
 ![SX5S](https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif)
 
 
-![snake gif](https://github.com/taeheehi/taeheehi/blob/output/github-contribution-grid-snake.gif)
+
 </div>
   <!--
 **taeheehi/taeheehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
