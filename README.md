@@ -21,7 +21,7 @@
   <div align=center><h2>😊TAEHEE</h2></div>
   <a href="https://www.instagram.com/tae_hi/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   
   <div align=center> 
   
