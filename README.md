@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2> Hi I'm Taehee Lee 😊 </h2>
+   ## Hi I'm Taehee Lee 😊
   
 </br>  
   
