@@ -3,14 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello%20EveryOne😊&fontSize=36&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 
 <div align="center">
-  
-  
-  
-  
 ### 😊 Hi! I'm Taehee 😊
-<!-- </br> -->
   <img src="https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif" width="32%" height="32%">
-</br>  
+<!-- </br>   -->
   
   
 #### I'm trying to become a frontend developer!
