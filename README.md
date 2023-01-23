@@ -13,6 +13,8 @@
 
 ![SX5S](https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif)
 
+<gif src="https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif">
+
   </br>
   
 <div align=center><h1>📚 STACKS</h1></div>
