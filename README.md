@@ -18,7 +18,7 @@
   </br>
   </hr>
   
-  <div align=center><h2>✍  LOGS  ✍</h2></div>
+  <div align=center><h2>⋆｡ﾟ✶°✍  LOGS  ✍⋆｡ﾟ✶°</h2></div>
   <a href="https://www.instagram.com/tae_hi/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
     <a href="https://taehi-dev.tistory.com/">
@@ -30,7 +30,7 @@
   </div>
     </br>  
   
-<div align=center><h2>⋆｡ﾟ✶° 😾  STACKS  😾 ⋆｡ﾟ✶°</h2></div>
+<div align=center><h2>☾⋆⁺₊⋆ 😾  STACKS  😾 ☾⋆⁺₊⋆</h2></div>
 
 <div align=center> 
 <!--   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  -->
