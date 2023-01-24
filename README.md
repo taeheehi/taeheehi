@@ -92,9 +92,16 @@
 <!--   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> -->
 <!--   <br> -->
 
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
   </br>
   </br>
   </br>
+
+
+
 
 </br>
 </br>
