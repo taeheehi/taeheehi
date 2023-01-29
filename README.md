@@ -1,6 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hi%20There&fontSize=50) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20EveryOne😊&fontSize=36&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&/text=Hello everyone%20!%20&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=%20Front-end%20Developer%20-%Taehee's%20GitHub!&amp;descAlignY=51&amp;descAlign=62" style="max-width: 100%;">
 
 <div align="center">
   
