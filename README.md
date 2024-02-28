@@ -26,7 +26,7 @@
 </br>
   </br>
   
-  <div align=center><h3>  --LOGS--  </h3></div>
+  <div align=center><h3>  --  LOGS  --  </h3></div>
  
   <a href="https://taehi-dev.tistory.com/">
   <img src="https://img.shields.io/badge/MY BLOG-A9225C.svg?style=for-the-badge&logo=Tistory&logoColor=white"></a>
@@ -41,7 +41,7 @@
   </br>
 <!--   </br> -->
   
-<div align=center><h3>  --STACKS--  </h3></div>
+<div align=center><h3>  --  STACKS  --  </h3></div>
 
 <div align=center> 
 <!--   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  -->
