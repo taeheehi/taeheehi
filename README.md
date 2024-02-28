@@ -14,6 +14,7 @@
   
 <!-- </br>   -->
 <div>
+  
   - I'm trying to become a frontend developer!
   
   - Developers who create beneficial social values.
