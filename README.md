@@ -9,7 +9,7 @@
 
 <!-- ref :https://github.com/kyechan99/capsule-render#fontaligny -->
 
- <div align="center">
+
   
 <!--### 😊 I'm Taehee 😊
   <img src="https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif" width="32%" height="32%">
@@ -25,7 +25,7 @@
 
 </div>
 <!-- </br> -->
-
+ <div align="center">
 <!-- ![SX5S](https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif) -->
 
 <!-- <img src="https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif" width="40%" height="40%"> -->
