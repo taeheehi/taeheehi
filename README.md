@@ -24,11 +24,9 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/113709273/213805686-240fe62b-b117-4dcd-b138-5316bf76aa28.gif" width="40%" height="40%"> -->
 </br>
-
-  
   <div align=center><h3>  --&nbsp;&nbsp;LOGS&nbsp;&nbsp;--  </h3></div>
  
-  <a href="https://taehi-dev.tistory.com/">
+  <a href="https://taehidev.tistory.com/">
   <img src="https://img.shields.io/badge/MY BLOG-A9225C.svg?style=for-the-badge&logo=Tistory&logoColor=white"></a>
    <a href="https://www.instagram.com/tae_hi/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
