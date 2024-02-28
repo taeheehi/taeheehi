@@ -16,8 +16,8 @@
   
 <!-- </br>   -->
 <div>
-- I'm trying to become a frontend developer!
-- Developers who create beneficial social values.
+- I'm trying to become a frontend developer!  
+- Developers who create beneficial social values.  
 - A developer who thinks, researches, creates, and connects to practical realization by web.
 </div>
 <!-- </br> -->
