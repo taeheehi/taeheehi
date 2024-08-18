@@ -18,7 +18,8 @@
   - I'm trying to become a frontend developer!
   - Developers who create beneficial social values.
   - A developer who thinks, researches, creates, and connects to practical realization by web. -->
-  안녕하세요:) 태희입니다.
+  <div align="center">
+ 안녕하세요:) 태희입니다.</div>
 </div>
 <!-- </br> -->
  <div align="center">
