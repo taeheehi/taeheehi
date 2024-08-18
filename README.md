@@ -14,12 +14,10 @@
   
 <!-- </br>   -->
 <div>
-  
+  <!--
   - I'm trying to become a frontend developer!
-  
   - Developers who create beneficial social values.
-    
-  - A developer who thinks, researches, creates, and connects to practical realization by web.
+  - A developer who thinks, researches, creates, and connects to practical realization by web. -->
 </div>
 <!-- </br> -->
  <div align="center">
