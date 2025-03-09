@@ -19,7 +19,7 @@
   - Developers who create beneficial social values.
   - A developer who thinks, researches, creates, and connects to practical realization by web. -->
   <div align="center">
- 안녕하세요:) 태희입니다.</div>
+ HELLO</div>
 </div>
 <!-- </br> -->
  <div align="center">
